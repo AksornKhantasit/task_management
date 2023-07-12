@@ -1,16 +1,24 @@
-# task_management_application
+# Task Management Application
 
-A new Flutter project.
+Task Management Application is created in Flutter using Bloc.
 
 ## Getting Started
+  Flutter 3.7.11
+  Dart 2.19.6
 
-This project is a starting point for a Flutter application.
+## Feature 
+ - Passcode Lock Page
+ - Task Management Page
 
-A few resources to get you started if this is your first Flutter project:
+## Libraries & Tools Used
+  - Dio
+  - Flutter Bloc
+  - Local Session Timeout
+  - Flutter Toast
+  - Bloc Test
+  - Mockito
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Preview
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/AksornKhantasit/task_management/assets/24265596/e46436f4-58ab-42fc-b9dc-567ff0c8c991
+
